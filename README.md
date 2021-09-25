@@ -3,7 +3,7 @@ Hi, this is a brief introduction of me, my projects, and my goals. I hope you'll
 
 ## Who am I?
 My name is Giovanni, but you can call me *Gio*. I study computer engineering at the University of Bologna, I love programming and my goal is to be a pioneer in the world of **AI**! <br>
-I'm 19 and I think that everyone can reach their goals if they are capable of turning *obstacles* into __*opportunities*__:rocket:.
+I'm 20 and I think that everyone can reach their goals if they are capable of turning *obstacles* into __*opportunities*__:rocket:.
 
 ## In which language do I code?
 I'm currently coding in Java and C!<br>
